@@ -1,42 +1,50 @@
-# Production Notes - Song Title
+# Production Notes - Empire Way
+
+## Draft Instrumental - 2025
+- /cadences (Empire Way).mp3
 
 ## Recording Sessions
 
-### Session 1 - Jan 12, 2026
-- **Goal**: Capture initial demo
+### Session 1 - July 15, 2025
+- **Goal**: Record demo vocals
 - **Location**: Home studio
-- **Attendance**: Artist only
+- **Attendance**: Prometheus Brown
 - **Result**: Demo v1 completed
-- **Notes**: Good foundation, needs full band
+- **Notes**: 3 takes
 
-### Session 2 - Jan 18, 2026
-- **Goal**: Record full band arrangement
-- **Location**: [Studio Name]
-- **Attendance**: Artist, Producer, Drummer, Bassist
-- **Result**: Demo v2 with full arrangement
+### Session 2 - August 2025
+- **Goal**: Guest feature vocals
+- **Location**: Dakota Camacho home studio
+- **Attendance**: Dakota Camacho
+- **Result**: Demo v2, arrangement w/ 2nd verse
 - **Notes**: 
-  - Drummer nailed it in 3 takes
-  - Bass needed punch - switched from P-bass to J-bass
-  - Added synth pad for atmosphere
+  - added feature verse from Dakota Camacho
+ 
+### Session 3 - January 2026 (TBD)
+- **Goal**: Guest feature vocals
+- **Location**: Dakota Camacho home studio
+- **Attendance**: Dakota Camacho
+- **Result**: Demo v2, arrangement w/ 2nd verse
+- **Notes**: 
+  - added feature verse from Dakota Camacho
 
 ## Mix Decisions
 
 ### Vocals
-- **Chain**: Neve 1073 preamp → LA-2A compressor → slight de-esser
-- **Reverb**: EMT 140 plate (short decay for verses, longer for chorus)
+- **Chain**: xx preamp → xx compressor → xx de-esser
+- **Reverb**: xx (short decay for verses, longer for chorus)
 - **Delay**: 1/4 note dotted, very subtle, panned right
 - **Harmony**: 3-part in chorus only, panned wide
 
 ### Drums
-- **Kick**: Punchy, 60Hz boost, gated reverb
-- **Snare**: Fat and present, parallel compression
-- **Room**: Generous room mics for space
+- **Kick**: (ex: Punchy, 60Hz boost, gated reverb)
+- **Snare**: (ex: Fat and present, parallel compression)
 - **Overall**: Compressed as a group for glue
 
-### Guitar
-- **Acoustic**: Natural, small-room reverb
-- **Electric**: Bridge is clean with chorus effect, final chorus is overdriven
-- **Amp**: Fender Deluxe Reverb, SM57 on-axis
+### Instruments
+- **Strings**: Natural, small-room reverb
+- **Noise**: Bridge is clean with chorus effect, final chorus is overdriven
+- **Misc**: Fender Deluxe Reverb, SM57 on-axis
 
 ### Bass
 - **DI + Amp**: Blended 60/40 (DI/Amp)
@@ -49,28 +57,22 @@
 - Final limiter: -1dB ceiling for streaming, -0.3dB for physical
 
 ## Reference Tracks
-- [Artist Name - Song Title] for vocal production
-- [Artist Name - Song Title] for drum sound
-- [Artist Name - Song Title] for overall vibe and dynamics
+- [Blue Scholars - Solstice: Re-Introduction] vocal production
+- [Slick Rick - Kill Niggaz] overall vibe and dynamics
 
 ## Producer Notes
 > "The key to this track is restraint in the verses. We want the listener to FEEL the chorus when it hits. Don't over-produce the first half."  
 > — [Producer Name], Jan 20, 2026
 
 ## Things We Tried That Didn't Work
-- ❌ Bigger reverb on vocals (made it muddy)
-- ❌ Sub-bass drop in the bridge (too trendy, didn't fit)
-- ❌ Guitar solo (felt indulgent, removed it)
-- ❌ Faster tempo (lost the groove)
+- ❌ 
 
 ## Things We Tried That DID Work
-- ✅ Stripping back to just piano + vocal in bridge
-- ✅ Adding subtle synth swell before final chorus
-- ✅ Double-tracking acoustic guitar (panned L/R)
-- ✅ Hand claps buried in the mix for texture
+- ✅ 
+
 
 ## Final Thoughts
-This track really came together once we found the right balance between intimate and epic. The production serves the song rather than showing off.
+Opening title track. 
 
 ---
 
