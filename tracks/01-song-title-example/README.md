@@ -1,4 +1,4 @@
-# Song Title Here
+# Empire Way
 
 **Status**: In Production  
 **Key**: C Minor  
@@ -7,13 +7,11 @@
 
 ## Overview
 
-[Brief description of the song's theme, mood, inspiration]
+Title track.
 
 ## Lyrics Evolution
 
-- `v1-initial-draft.txt` - First brainstorm session (Jan 10, 2026)
-- `v2-revised.txt` - Restructured chorus (Jan 15, 2026)
-- `final.txt` - Final lyrics for recording (Jan 25, 2026)
+- `v1-initial-draft.txt` - First brainstorm session (July 15, 2025)
 
 See commit history for detailed changes and reasoning.
 
@@ -46,17 +44,17 @@ See commit history for detailed changes and reasoning.
 
 ## Credits
 
-- Lyrics: [Artist Name]
-- Music: [Artist Name], [Producer Name]
-- Performed by: [List musicians]
+- Lyrics: Prometheus Brown, Dakota Camacho
+- Music: Prometheus Brown, Gabriel Teodros
+- Performed by: Prometheus Brown, Dakota Camacho
 
 ## Technical Details
 
-- Recorded: [Studio Name]
+- Recorded: Prometheus Brown's 
 - Sample Rate: 48kHz / 24-bit
 - Stems: 24 tracks
-- Mixed: [Engineer Name]
-- Mastered: [Engineer Name]
+- Mixed: Gabriel Teodros
+- Mastered: Dume
 
 ---
 
