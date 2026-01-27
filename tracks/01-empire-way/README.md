@@ -11,18 +11,18 @@ Title track. Featuring Dakota Camacho.
 
 ## Lyrics Evolution
 
-- `tracks/01-empire-way/lyrics/v1-empire-way-draft.md` - First writing & demo recording session (July 15, 2025)
+- `tracks/01-empire-way/lyrics/v1-empire-way-draft.md` - First writing & demo recording session (June 29, 2025)
 - `tracks/01-empire-way/lyrics/v2-empire-way-draft.md` - Guest verse writing and recording session, remote (July 25, 2025)
 
 See commit history for detailed changes and reasoning.
 
-## Demo Versions
+## Versions
 
 | Version | Date | Changes | Link |
 |---------|------|---------|------|
 | Demo 1 | July 15, 2025 | Initial demo recording, Prometheus Brown vocals | [Listen on untitled.stream](https://untitled.com/demo1) |
-| Demo 2 | July 25, 2025 | Added guest verse, Dakota Camacho | [Listen on untitled.stream](https://untitled.com/demo2) |
-| Demo Master v1 | October 15, 2025 | Mastered by Dume | [Listen on untitled.com](https://untitled.com/demo3) |
+| Demo 2 | July 25, 2025 | Prometheus Brown re-recorded vocals, Dakota Camacho guest verse, Vocal Samples: Laura "Piece" Kelley and Michael Parenti, Instrumental arrangements | [Listen on untitled.stream](https://untitled.com/demo2) |
+| Master 001 | October 16, 2025 | Mastered by Dume | [Listen on untitled.com](https://untitled.com/demo3) |
 
 ## Production Notes
 
