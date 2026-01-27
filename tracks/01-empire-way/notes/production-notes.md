@@ -34,36 +34,34 @@
 ### Vocals
 - **Chain**: xx preamp → xx compressor → xx de-esser
 - **Reverb**: xx (short decay for verses, longer for chorus)
-- **Delay**: 1/4 note dotted, very subtle, panned right
-- **Harmony**: 3-part in chorus only, panned wide
+- **Delay**: 
+- **Harmony**: 
 
 ### Drums
-- **Kick**: (ex: Punchy, 60Hz boost, gated reverb)
-- **Snare**: (ex: Fat and present, parallel compression)
-- **Overall**: Compressed as a group for glue
+- **Kick**: 
+- **Snare**: 
+- **Overall**: 
 
-### Instruments
-- **Strings**: Natural, small-room reverb
-- **Noise**: Bridge is clean with chorus effect, final chorus is overdriven
-- **Misc**: Fender Deluxe Reverb, SM57 on-axis
+### Instruments / Samples
+- **Keys**: "Summer Madness" ARP 2600 synthesizer sample (intro)
+- **Strings**: 
+- **Noise**: 
+- **Misc**: 
 
 ### Bass
-- **DI + Amp**: Blended 60/40 (DI/Amp)
-- **Amp**: Ampeg SVT-VR through 8x10 cab
-- **EQ**: Slight scoop at 400Hz, presence boost at 2kHz
+- **DI + Amp**: 
+- **Amp**: 
+- **EQ**: 
 
 ## Master Bus Processing
-- Analog-modeled SSL compressor (gentle 2:1 ratio)
-- Slight saturation for warmth
-- Final limiter: -1dB ceiling for streaming, -0.3dB for physical
+- **TBD**
 
 ## Reference Tracks
 - [Blue Scholars - Solstice: Re-Introduction] vocal production
 - [Slick Rick - Kill Niggaz] overall vibe and dynamics
 
 ## Producer Notes
-> "The key to this track is restraint in the verses. We want the listener to FEEL the chorus when it hits. Don't over-produce the first half."  
-> — [Producer Name], Jan 20, 2026
+- 
 
 ## Things We Tried That Didn't Work
 - ❌ 
@@ -77,4 +75,4 @@ Opening title track.
 
 ---
 
-**Last Updated**: January 25, 2026
+**Last Updated**: January 27, 2026
