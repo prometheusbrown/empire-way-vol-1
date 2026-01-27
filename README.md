@@ -59,13 +59,15 @@ git push
 When we reach important points:
 - `demo-complete` - All demos recorded
 - `mixing-start` - Sent to mixing engineer
+- `mastering-start` - Sent to mastering engineer
 - `streaming-final` - Ready for Spotify, Apple Music, etc.
 - `physical-final` - Ready for vinyl/CD manufacturing
 
 ### 3. Final Release
-- Streaming master goes in `releases/streaming/`
-- Physical master goes in `releases/physical/`
-- Both versions are tagged with release date
+- Streaming master goes in `releases/final/streaming/`
+- Physical all-media master goes in `releases/final/physical-media/`
+- Physical vinyl master goes in `releases/physical-vinyl/`
+- All versions are tagged with release date (March 20, 2026)
 
 ## 🔒 Privacy Notes
 
@@ -81,7 +83,7 @@ The public website (`web/index.html`) provides:
 - Lyric evolution viewer
 - Behind-the-scenes production notes
 
-Visit: [your-github-username.github.io/album-name]
+Visit: [prometheusbrown.github.io/empire-way-vol-1]
 
 ## 📝 Commit Message Guidelines
 
@@ -103,7 +105,7 @@ Good commit messages help us track what changed and why:
 ## 📦 Audio File Management
 
 - Audio files are tracked with **Git LFS** (Large File Storage)
-- Actual files stored on untitled.com + Git tracks metadata
+- Actual files stored on [untitled.stream](https://untitled.stream) + Git tracks metadata
 - This keeps the repository fast and lightweight
 
 ## 🛠️ Technical Setup
