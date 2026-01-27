@@ -11,7 +11,7 @@ Title track.
 
 ## Lyrics Evolution
 
-- `v1-initial-draft.txt` - First brainstorm session (July 15, 2025)
+- `v1-initial-draft.txt` - First writing & recording session (July 15, 2025)
 
 See commit history for detailed changes and reasoning.
 
@@ -19,9 +19,9 @@ See commit history for detailed changes and reasoning.
 
 | Version | Date | Changes | Link |
 |---------|------|---------|------|
-| Demo 1 | Jan 12, 2026 | Initial rough recording | [Listen on untitled.com](https://untitled.com/demo1) |
-| Demo 2 | Jan 18, 2026 | Added full band arrangement | [Listen on untitled.com](https://untitled.com/demo2) |
-| Demo 3 | Jan 22, 2026 | Revised bridge melody | [Listen on untitled.com](https://untitled.com/demo3) |
+| Demo 1 | July 15, 2025 | Initial demo recording, Prometheus Brown vocals | [Listen on untitled.stream](https://untitled.com/demo1) |
+| Demo 2 | August 2025 | Added guest verse, Dakota Camacho | [Listen on untitled.stream](https://untitled.com/demo2) |
+| Demo 3 | October 15, 2025 | Mastered by Dume | [Listen on untitled.com](https://untitled.com/demo3) |
 
 ## Production Notes
 
