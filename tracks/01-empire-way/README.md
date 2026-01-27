@@ -11,8 +11,8 @@ Title track. Featuring Dakota Camacho.
 
 ## Lyrics Evolution
 
-- `v1-empire-way-draft` - First writing & recording session (July 15, 2025)
-- `v2-empire-way-draft` - First writing & recording session (July 15, 2025)
+- `tracks/01-empire-way/lyrics/v1-empire-way-draft.md` - First writing & demo recording session (July 15, 2025)
+- `tracks/01-empire-way/lyrics/v2-empire-way-draft.md` - Guest verse writing and recording session, remote (July 25, 2025)
 
 See commit history for detailed changes and reasoning.
 
