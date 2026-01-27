@@ -5,14 +5,14 @@
 
 ## Recording Sessions
 
-### Session 1 - July 15, 2025
+### Session 1 - June 29, 2025
 - **Goal**: Record demo vocals
 - **Location**: PB_home_studio
 - **Attendance**: Prometheus Brown
 - **Result**: Demo v1 completed
 - **Notes**: 3 takes, added Laura "Piece" Kelley "Empire Way became MLK" vocal sample
 
-### Session 2 - July 25 2025
+### Session 2 - July 26 2025
 - **Goal**: Guest feature vocals
 - **Location**: Dakota Camacho home studio
 - **Attendance**: Dakota Camacho
