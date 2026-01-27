@@ -17,7 +17,7 @@
 ## Technical Details
 - **Format**: 48kHz / 24-bit WAV
 - **Interface**: Apollo Twin MKII
-- **Microphone**: Audio Technica AT4050 (vocals), 
+- **Microphone**: Audio Technica AT4050 (Prometheus Brown vocals), xxx (Dakota Camacho vocals) 
 - **DAW Session (vocals)**: Logic Pro X - "empire-way-demo.logicx" (vocals)
 - **DAW Session (instrumental & mixing)**: REAPER
 - **DAW Session (mastering)**: Logic Pro X
