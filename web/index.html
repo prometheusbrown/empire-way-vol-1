@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Album Title - Creative Process</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Album Title</h1>
+            <p class="tagline">A transparent look at the creative process</p>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#tracks">Tracks</a>
+                <a href="#timeline">Timeline</a>
+                <a href="#demos">Demos</a>
+                <a href="https://github.com/your-username/album-name" target="_blank">View on GitHub</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="about" class="section">
+            <div class="container">
+                <h2>About This Project</h2>
+                <p>Welcome to the creative journey of [Album Name]. This project uses Git and GitHub to track every decision, iteration, and evolution of the album from first demo to final master.</p>
+                <p>Everything you see here—from lyrics drafts to production notes—is open and documented. You can follow along as the album develops, see how songs change over time, and understand the creative decisions behind the music.</p>
+                
+                <div class="stats">
+                    <div class="stat">
+                        <span class="number" id="commit-count">--</span>
+                        <span class="label">Commits</span>
+                    </div>
+                    <div class="stat">
+                        <span class="number" id="track-count">--</span>
+                        <span class="label">Tracks</span>
+                    </div>
+                    <div class="stat">
+                        <span class="number" id="demo-count">--</span>
+                        <span class="label">Demos</span>
+                    </div>
+                    <div class="stat">
+                        <span class="number" id="days-in-production">--</span>
+                        <span class="label">Days in Production</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="tracks" class="section">
+            <div class="container">
+                <h2>Tracks</h2>
+                <div class="track-grid" id="track-grid">
+                    <!-- Tracks will be dynamically loaded here -->
+                    <div class="track-card">
+                        <h3>01. Song Title Example</h3>
+                        <p class="track-status">Status: <span class="badge in-production">In Production</span></p>
+                        <p class="track-description">Brief description of the song's theme and vibe...</p>
+                        <div class="track-meta">
+                            <span>⏱️ 3:45</span>
+                            <span>🎵 C Minor</span>
+                            <span>🥁 128 BPM</span>
+                        </div>
+                        <div class="track-actions">
+                            <a href="#" class="btn btn-small">View Lyrics</a>
+                            <a href="#" class="btn btn-small">Listen to Demos</a>
+                        </div>
+                    </div>
+                    
+                    <!-- More tracks... -->
+                </div>
+            </div>
+        </section>
+
+        <section id="timeline" class="section section-dark">
+            <div class="container">
+                <h2>Creative Timeline</h2>
+                <p>Major milestones in the album's development</p>
+                
+                <div class="timeline" id="timeline">
+                    <!-- Timeline will be dynamically loaded from Git commits -->
+                    <div class="timeline-item">
+                        <div class="timeline-date">Jan 10, 2026</div>
+                        <div class="timeline-content">
+                            <h4>Project Started</h4>
+                            <p>Initial repository setup and first demo recordings</p>
+                            <span class="commit-hash">#abc123</span>
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-item">
+                        <div class="timeline-date">Jan 15, 2026</div>
+                        <div class="timeline-content">
+                            <h4>Track 1 - Demo v2</h4>
+                            <p>Added full band arrangement, revised chorus melody</p>
+                            <span class="commit-hash">#def456</span>
+                        </div>
+                    </div>
+                    
+                    <!-- More timeline items... -->
+                </div>
+            </div>
+        </section>
+
+        <section id="demos" class="section">
+            <div class="container">
+                <h2>Latest Demos</h2>
+                <p>Listen to the evolution of each track</p>
+                
+                <div class="demo-grid" id="demo-grid">
+                    <!-- Demo players will be embedded here -->
+                    <div class="demo-card">
+                        <div class="demo-header">
+                            <h4>Track 1 - Demo v3</h4>
+                            <span class="demo-date">Jan 22, 2026</span>
+                        </div>
+                        <div class="demo-player">
+                            <!-- Embed untitled.com player here -->
+                            <iframe src="https://untitled.com/embed/your-track-id" 
+                                    width="100%" 
+                                    height="120" 
+                                    frameborder="0" 
+                                    allowtransparency="true">
+                            </iframe>
+                        </div>
+                        <div class="demo-notes">
+                            <p><strong>Changes:</strong> Revised bridge melody, added synth layers</p>
+                            <a href="#" class="view-details">View detailed notes →</a>
+                        </div>
+                    </div>
+                    
+                    <!-- More demo cards... -->
+                </div>
+            </div>
+        </section>
+
+        <section id="lyrics" class="section">
+            <div class="container">
+                <h2>Lyric Evolution</h2>
+                <p>See how lyrics evolved from first draft to final version</p>
+                
+                <div class="lyrics-comparison">
+                    <div class="lyrics-viewer">
+                        <h4>Track 1 - Lyrics</h4>
+                        <div class="version-selector">
+                            <button class="active" data-version="v1">v1 - Jan 10</button>
+                            <button data-version="v2">v2 - Jan 15</button>
+                            <button data-version="final">Final - Jan 25</button>
+                        </div>
+                        <div class="lyrics-content" id="lyrics-content">
+                            <!-- Lyrics will be loaded here with diff highlighting -->
+                            <div class="lyrics-section">
+                                <h5>Verse 1</h5>
+                                <pre>
+Lines about the main theme
+Setting up the story
+Building anticipation
+                                </pre>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="production" class="section section-dark">
+            <div class="container">
+                <h2>Production Notes</h2>
+                <p>Behind-the-scenes technical decisions and creative insights</p>
+                
+                <div class="notes-grid">
+                    <div class="note-card">
+                        <h4>🎙️ Vocal Recording</h4>
+                        <p>Detailed notes on microphone choice, preamps, and recording techniques...</p>
+                        <a href="#" class="read-more">Read full notes →</a>
+                    </div>
+                    
+                    <div class="note-card">
+                        <h4>🥁 Drum Production</h4>
+                        <p>Our approach to getting punchy, present drums in the mix...</p>
+                        <a href="#" class="read-more">Read full notes →</a>
+                    </div>
+                    
+                    <div class="note-card">
+                        <h4>🎹 Synth Design</h4>
+                        <p>Building atmospheric pads that support without overwhelming...</p>
+                        <a href="#" class="read-more">Read full notes →</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="credits" class="section">
+            <div class="container">
+                <h2>Credits</h2>
+                <div class="credits-grid">
+                    <div class="credit">
+                        <h4>Artist</h4>
+                        <p>Your Name</p>
+                    </div>
+                    <div class="credit">
+                        <h4>Producer</h4>
+                        <p>Producer Name</p>
+                    </div>
+                    <div class="credit">
+                        <h4>Mixing</h4>
+                        <p>Engineer Name</p>
+                    </div>
+                    <div class="credit">
+                        <h4>Mastering</h4>
+                        <p>Engineer Name</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Artist Name. All Rights Reserved.</p>
+            <p>
+                <a href="https://github.com/your-username/album-name">GitHub Repository</a> | 
+                <a href="https://github.com/your-username/album-name/commits/main">View Commit History</a> |
+                <a href="#">License</a>
+            </p>
+            <p class="tech-note">This site is built from a Git repository. Every change is tracked and transparent.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
