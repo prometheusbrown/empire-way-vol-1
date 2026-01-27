@@ -1,0 +1,114 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# DAW Project Files (Keep project files but ignore backups/cache)
+*.backup
+*~
+*.autosave
+*.pkf
+*.bak
+
+# Logic Pro X
+*.logicx/Backups/
+*.logicx/Alternatives/
+*.logicx/Media/Freeze Files/
+*.logicx/TransientAnalysis/
+
+# Ableton Live
+*.als.bak
+*.als~
+*Backup/
+Backup/
+
+# Pro Tools
+*.ptx.bak
+*.ptx~
+DigiBase*
+
+# Cubase/Nuendo
+*.bak
+*.backup
+
+# FL Studio
+*.flp.bak
+
+# Studio One
+*.song.bak
+
+# Reaper
+*.reapeaks
+
+# Plugin Cache
+*.cache
+*.db
+
+# Audio Analysis Files
+*.asd
+*.reapeaks
+*.wfm
+*.sfk
+*.pk
+*.pkf
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Large Binary Files (if not using Git LFS)
+# Uncomment these if you're NOT using Git LFS:
+# *.wav
+# *.aif
+# *.aiff
+# *.mp3
+# *.flac
+# *.ogg
+
+# Keep small audio files for reference
+# !*-ref.mp3
+# !*-reference.mp3
+
+# Node modules (if using web tools)
+node_modules/
+npm-debug.log
+
+# Python virtual environments
+venv/
+env/
+__pycache__/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS Metadata
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows Metadata
+$RECYCLE.BIN/
+
+# Notes and Drafts (if you want to keep certain notes private)
+# PRIVATE-*.md
+# *-private.txt
+
+# Compressed Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Keep README files even if they match patterns
+!README.md
+!*/README.md
