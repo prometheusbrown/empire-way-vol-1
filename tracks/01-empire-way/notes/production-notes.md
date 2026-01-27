@@ -7,26 +7,27 @@
 
 ### Session 1 - July 15, 2025
 - **Goal**: Record demo vocals
-- **Location**: Home studio
+- **Location**: PB_home_studio
 - **Attendance**: Prometheus Brown
 - **Result**: Demo v1 completed
-- **Notes**: 3 takes
+- **Notes**: 3 takes, added Laura "Piece" Kelley "Empire Way became MLK" vocal sample
 
-### Session 2 - August 2025
+### Session 2 - July 25 2025
 - **Goal**: Guest feature vocals
 - **Location**: Dakota Camacho home studio
 - **Attendance**: Dakota Camacho
-- **Result**: Demo v2, arrangement w/ 2nd verse
+- **Result**: Demo v2 completed, arrangement w/ 2nd verse
 - **Notes**: 
-  - added feature verse from Dakota Camacho
+  - added feature verse and chorus from Dakota Camacho
+  - added Michael Parenti "Against Empire" speech vocal samples for intro and outro
  
 ### Session 3 - January 2026 (TBD)
-- **Goal**: Guest feature vocals
-- **Location**: Dakota Camacho home studio
-- **Attendance**: Dakota Camacho
-- **Result**: Demo v2, arrangement w/ 2nd verse
+- **Goal**: Re-record final Prometheus Brown verse and chorus, re-record final Laura "Piece" Kelley vocal sample with scratches
+- **Location**: PB_home_studio
+- **Attendance**: Prometheus Brown
+- **Result**: Demo v3
 - **Notes**: 
-  - added feature verse from Dakota Camacho
+  - TBD
 
 ## Mix Decisions
 
