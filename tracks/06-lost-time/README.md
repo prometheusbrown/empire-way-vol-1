@@ -1,17 +1,17 @@
-# Empire Way
+# Lost Time
 
 **Status**: In Production  
-**Key**: C Minor  
-**BPM**: 128  
-**Duration**: ~3:45  
+**Key**: B Maj  
+**BPM**: 178 (89)
+**Duration**: ~3:04 
 
 ## Overview
 
-Title track.
+Making up for lost time. First song written and recorded for this project, before it was officially even a project. Featuring outro audio clip from Njuguna aka Monk Wordsmith (The Physics).
 
 ## Lyrics Evolution
 
-- `v1-initial-draft.txt` - First brainstorm session (July 15, 2025)
+- `v1-lost-time-draft.md` - First writing session (2024-10-30)
 
 See commit history for detailed changes and reasoning.
 
@@ -19,34 +19,28 @@ See commit history for detailed changes and reasoning.
 
 | Version | Date | Changes | Link |
 |---------|------|---------|------|
-| Demo 1 | Jan 12, 2026 | Initial rough recording | [Listen on untitled.com](https://untitled.com/demo1) |
-| Demo 2 | Jan 18, 2026 | Added full band arrangement | [Listen on untitled.com](https://untitled.com/demo2) |
-| Demo 3 | Jan 22, 2026 | Revised bridge melody | [Listen on untitled.com](https://untitled.com/demo3) |
+| Demo 1 | 2024-10-14 | Initial rough recording | [Listen on untitled.com](https://untitled.com/demo1) |
+| Demo 2 | 2024-10-30 | 2nd demo, re-recorded vocals | [Listen on untitled.com](https://untitled.com/demo2) |
+| Demo 3 | 2024-12-12 | 3rd demo, GT arragement and mixing | [Listen on untitled.com](https://untitled.com/demo3) |
+| Demo 4 | 2025-10| 4th demo, added Njuguna audio clip | [Listen on untitled.com](https://untitled.com/demo3) |
+| Master 001 | 2025-10-16 | Dume master | [Listen on untitled.com](https://untitled.com/demo3) |
 
 ## Production Notes
 
 ### Arrangement
-- Verse: Minimal - just vocals, acoustic guitar, subtle pad
-- Chorus: Full band enters with drums and bass
-- Bridge: Strip back to piano and vocals before final chorus
+- Chorus-Verse-Chorus
 
 ### Instrumentation
-- Electric guitar (verse riff in drop D)
-- Bass (root notes, some walking in pre-chorus)
-- Drums (live kit, recorded in one take)
-- Synth pad (atmospheric, Juno-60 style)
-- Vocals (lead + 3-part harmony in chorus)
+- 
 
 ### Mix Notes
-- Vocal sits slightly above the mix
-- Heavy compression on drums for punch
-- Long reverb tail on final chorus for impact
+- 
 
 ## Credits
 
-- Lyrics: Prometheus Brown, Dakota Camacho
-- Music: Prometheus Brown, Gabriel Teodros
-- Performed by: Prometheus Brown, Dakota Camacho
+- Lyrics: Prometheus Brown
+- Music: Gabriel Teodros
+- Performed by: Prometheus Brown, Gabriel Teodros
 
 ## Technical Details
 
