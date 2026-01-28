@@ -1,8 +1,9 @@
 # Empire Way, Vol. 1
 
-> A collaborative album project between Prometheus Brown (emcee) and Gabriel Teodros (producer) tracked with Git for transparent creative evolution and experimentation in platform release.
+> A collaborative album project between Prometheus Brown (emcee) and Gabriel Teodros (producer) tracked with Git for transparent creative evolution and experimentation in platform release. Production, writing and recording began in October 2024 and eight songs were selected for inclusion in October 2025.
+> This repository was created in January 2026 to retroactively track previous changes, as well as to track future changes on the way to a targeted final release in Spring 2026.
 
-## 🎵 Version History
+## 🔢 Version History
 - October 15, 2025 - Vocals, Instrumentals arranged and mixed (unmastered), 8 songs 
 - October 16, 2025 - Master 001 (mastered by Dume), 8 songs
 
