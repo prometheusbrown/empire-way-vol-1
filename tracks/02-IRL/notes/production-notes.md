@@ -1,77 +1,65 @@
-# Production Notes - Song Title
+# Production Notes - IRL
 
 ## Recording Sessions
 
-### Session 1 - Jan 12, 2026
-- **Goal**: Capture initial demo
-- **Location**: Home studio
-- **Attendance**: Artist only
+### Session 1 - 2025-09-28
+- **Goal**: Intial scratch demo
+- **Location**: PB_home_studio
+- **Attendance**: PB
 - **Result**: Demo v1 completed
-- **Notes**: Good foundation, needs full band
+- **Notes**: see: 'demo-v1-2025-09-25.md'
 
-### Session 2 - Jan 18, 2026
-- **Goal**: Record full band arrangement
-- **Location**: [Studio Name]
-- **Attendance**: Artist, Producer, Drummer, Bassist
-- **Result**: Demo v2 with full arrangement
+### Session 2 - 2025-10-01
+- **Goal**: Re-record vocals to rearranged GT beat, tighten up bars
+- **Location**: PB_home_studio
+- **Attendance**: PB
+- **Result**: Demo v2, full arrangement
 - **Notes**: 
-  - Drummer nailed it in 3 takes
-  - Bass needed punch - switched from P-bass to J-bass
-  - Added synth pad for atmosphere
+  - GT sequenced beat to fit verses
+  - need beat switch-up at 2:50
 
 ## Mix Decisions
 
 ### Vocals
-- **Chain**: Neve 1073 preamp → LA-2A compressor → slight de-esser
-- **Reverb**: EMT 140 plate (short decay for verses, longer for chorus)
-- **Delay**: 1/4 note dotted, very subtle, panned right
-- **Harmony**: 3-part in chorus only, panned wide
+- **Chain**: 
+- **Reverb**: 
+- **Delay**: 
+- **Harmony**: 
 
 ### Drums
-- **Kick**: Punchy, 60Hz boost, gated reverb
-- **Snare**: Fat and present, parallel compression
-- **Room**: Generous room mics for space
-- **Overall**: Compressed as a group for glue
+- **Kick**: 
+- **Snare**: 
+- **Room**: 
+- **Overall**: 
 
-### Guitar
-- **Acoustic**: Natural, small-room reverb
-- **Electric**: Bridge is clean with chorus effect, final chorus is overdriven
-- **Amp**: Fender Deluxe Reverb, SM57 on-axis
+### Instruments
+- **Keys**: 
+- **Strings**: 
+- **Misc**: 
 
 ### Bass
-- **DI + Amp**: Blended 60/40 (DI/Amp)
-- **Amp**: Ampeg SVT-VR through 8x10 cab
-- **EQ**: Slight scoop at 400Hz, presence boost at 2kHz
+- **EQ**: 
 
 ## Master Bus Processing
-- Analog-modeled SSL compressor (gentle 2:1 ratio)
-- Slight saturation for warmth
-- Final limiter: -1dB ceiling for streaming, -0.3dB for physical
+- 
 
 ## Reference Tracks
-- [Artist Name - Song Title] for vocal production
-- [Artist Name - Song Title] for drum sound
-- [Artist Name - Song Title] for overall vibe and dynamics
+- [Artist Name - Song Title] 
+- [Artist Name - Song Title] 
 
 ## Producer Notes
-> "The key to this track is restraint in the verses. We want the listener to FEEL the chorus when it hits. Don't over-produce the first half."  
-> — [Producer Name], Jan 20, 2026
+> "This is my favorite song of the album."  
+> — GT, 2025-10-15
 
 ## Things We Tried That Didn't Work
-- ❌ Bigger reverb on vocals (made it muddy)
-- ❌ Sub-bass drop in the bridge (too trendy, didn't fit)
-- ❌ Guitar solo (felt indulgent, removed it)
-- ❌ Faster tempo (lost the groove)
+- ❌ 
 
 ## Things We Tried That DID Work
-- ✅ Stripping back to just piano + vocal in bridge
-- ✅ Adding subtle synth swell before final chorus
-- ✅ Double-tracking acoustic guitar (panned L/R)
-- ✅ Hand claps buried in the mix for texture
+- ✅ 
 
 ## Final Thoughts
-This track really came together once we found the right balance between intimate and epic. The production serves the song rather than showing off.
+Yes!
 
 ---
 
-**Last Updated**: January 25, 2026
+**Last Updated**: 2026-01-27
