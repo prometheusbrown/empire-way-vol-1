@@ -1,13 +1,13 @@
-# Empire Way
+# Viva Activa
 
 **Status**: In Production  
-**Key**: C Minor  
-**BPM**: 128  
-**Duration**: ~3:45  
+**Key**: C Min  
+**BPM**: 152 (76)  
+**Duration**: ~3:48  
 
 ## Overview
 
-Title track.
+Featuring Rell Be Free.
 
 ## Lyrics Evolution
 
@@ -19,38 +19,31 @@ See commit history for detailed changes and reasoning.
 
 | Version | Date | Changes | Link |
 |---------|------|---------|------|
-| Demo 1 | Jan 12, 2026 | Initial rough recording | [Listen on untitled.com](https://untitled.com/demo1) |
-| Demo 2 | Jan 18, 2026 | Added full band arrangement | [Listen on untitled.com](https://untitled.com/demo2) |
-| Demo 3 | Jan 22, 2026 | Revised bridge melody | [Listen on untitled.com](https://untitled.com/demo3) |
+| Demo 1 | 2024-11-26 | Initial rough scratch recording | [Listen on untitled.com](https://untitled.com/demo1) |
+| Demo 2 | 2025-03 | Added Rell Be Free verse | [Listen on untitled.com](https://untitled.com/demo2) |
+| Master 001 | 2026-10-16 | Dume master | [Listen on untitled.com](https://untitled.com/demo3) |
 
 ## Production Notes
 
 ### Arrangement
-- Verse: Minimal - just vocals, acoustic guitar, subtle pad
-- Chorus: Full band enters with drums and bass
-- Bridge: Strip back to piano and vocals before final chorus
+- Verse: 
+- Chorus: 
 
 ### Instrumentation
-- Electric guitar (verse riff in drop D)
-- Bass (root notes, some walking in pre-chorus)
-- Drums (live kit, recorded in one take)
-- Synth pad (atmospheric, Juno-60 style)
-- Vocals (lead + 3-part harmony in chorus)
+- 
 
 ### Mix Notes
-- Vocal sits slightly above the mix
-- Heavy compression on drums for punch
-- Long reverb tail on final chorus for impact
+- 
 
 ## Credits
 
-- Lyrics: Prometheus Brown, Dakota Camacho
-- Music: Prometheus Brown, Gabriel Teodros
-- Performed by: Prometheus Brown, Dakota Camacho
+- Lyrics: Prometheus Brown, Rell Be Free
+- Music: Gabriel Teodros
+- Performed by: Prometheus Brown, Rell Be Free
 
 ## Technical Details
 
-- Recorded: Prometheus Brown's 
+- Recorded: PB_home_studio, GT_home_studio
 - Sample Rate: 48kHz / 24-bit
 - Stems: 24 tracks
 - Mixed: Gabriel Teodros
