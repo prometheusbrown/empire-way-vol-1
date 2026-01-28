@@ -1,17 +1,18 @@
-# Empire Way
+# FST
 
 **Status**: In Production  
-**Key**: C Minor  
-**BPM**: 128  
-**Duration**: ~3:45  
+**Key**: Db min
+**BPM**: 160 (80)
+**Duration**: ~4:00 
 
 ## Overview
 
-Title track.
+An evolved track that turned into a completely different song and then back again lol. Spontaneously remade from a year-old demo during a then-final mix-down session October 2025, on the same day we found out D'Angelo had passed away. Vocals re-recorded while GT went to buy dog food.
 
 ## Lyrics Evolution
 
-- `v1-initial-draft.txt` - First brainstorm session (July 15, 2025)
+- `v1-fuckshit-times-draft.md` - First writing and recording session (2024-11-19)
+- `v1-fst-revision.md` - First writing and recording session (2025-10-13)
 
 See commit history for detailed changes and reasoning.
 
@@ -19,38 +20,32 @@ See commit history for detailed changes and reasoning.
 
 | Version | Date | Changes | Link |
 |---------|------|---------|------|
-| Demo 1 | Jan 12, 2026 | Initial rough recording | [Listen on untitled.com](https://untitled.com/demo1) |
-| Demo 2 | Jan 18, 2026 | Added full band arrangement | [Listen on untitled.com](https://untitled.com/demo2) |
-| Demo 3 | Jan 22, 2026 | Revised bridge melody | [Listen on untitled.com](https://untitled.com/demo3) |
+| Demo 1 | 2024-11-19 | Initial rough recording as "Fuckshit Times" | [Listen on untitled.com](https://untitled.com/demo1) |
+| Demo 2 | 2025-10-14 | Rewritten lyrics and Re-recorded vocals, renamed to "FST," added Lino Brocka and D'Angelo (RIP) spoken vocal samples | [Listen on untitled.com](https://untitled.com/demo2) |
+| Master 001 | 2025-10-16 | Dume master | [Listen on untitled.com](https://untitled.com/demo3) |
 
 ## Production Notes
 
 ### Arrangement
-- Verse: Minimal - just vocals, acoustic guitar, subtle pad
-- Chorus: Full band enters with drums and bass
-- Bridge: Strip back to piano and vocals before final chorus
+- Verse: 
+- Chorus: 
+- Bridge: 
 
 ### Instrumentation
-- Electric guitar (verse riff in drop D)
-- Bass (root notes, some walking in pre-chorus)
-- Drums (live kit, recorded in one take)
-- Synth pad (atmospheric, Juno-60 style)
-- Vocals (lead + 3-part harmony in chorus)
+- 
 
 ### Mix Notes
-- Vocal sits slightly above the mix
-- Heavy compression on drums for punch
-- Long reverb tail on final chorus for impact
+- 
 
 ## Credits
 
-- Lyrics: Prometheus Brown, Dakota Camacho
-- Music: Prometheus Brown, Gabriel Teodros
-- Performed by: Prometheus Brown, Dakota Camacho
+- Lyrics: Prometheus Brown
+- Music: Gabriel Teodros
+- Performed by: Prometheus Brown
 
 ## Technical Details
 
-- Recorded: Prometheus Brown's 
+- Recorded: PB_home_studio
 - Sample Rate: 48kHz / 24-bit
 - Stems: 24 tracks
 - Mixed: Gabriel Teodros
@@ -58,4 +53,4 @@ See commit history for detailed changes and reasoning.
 
 ---
 
-**Last Updated**: [Date]
+**Last Updated**: 2026-01-27
