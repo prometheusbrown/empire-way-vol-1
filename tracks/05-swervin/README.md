@@ -1,17 +1,17 @@
-# Empire Way
+# Swervin
 
 **Status**: In Production  
-**Key**: C Minor  
-**BPM**: 128  
-**Duration**: ~3:45  
+**Key**: Gb Minor  
+**BPM**: 170 (85)
+**Duration**: ~3:49  
 
 ## Overview
 
-Title track.
+First track recorded for this project, before it was concieved as a project. Featuring Abyssinian Creole (Gabriel Teodros & Khingz)
 
 ## Lyrics Evolution
 
-- `v1-initial-draft.txt` - First brainstorm session (July 15, 2025)
+- `v1-swervin-draft.md` - First writing session (November 1, 2024)
 
 See commit history for detailed changes and reasoning.
 
@@ -19,38 +19,32 @@ See commit history for detailed changes and reasoning.
 
 | Version | Date | Changes | Link |
 |---------|------|---------|------|
-| Demo 1 | Jan 12, 2026 | Initial rough recording | [Listen on untitled.com](https://untitled.com/demo1) |
-| Demo 2 | Jan 18, 2026 | Added full band arrangement | [Listen on untitled.com](https://untitled.com/demo2) |
-| Demo 3 | Jan 22, 2026 | Revised bridge melody | [Listen on untitled.com](https://untitled.com/demo3) |
+| Demo 1 | 2024-11-01 | Initial rough recording | [Listen on untitled.com](https://untitled.com/demo1) |
+| Demo 2 | 2024-12 | Added GT verse | [Listen on untitled.com](https://untitled.com/demo2) |
+| Demo 3 | 2025-05 | Added Khingz verse | [Listen on untitled.com](https://untitled.com/demo3) |
+| Master 001 | 2026-10-16 | Dume master | [Listen on untitled.com](https://untitled.com/demo3) |
 
 ## Production Notes
 
 ### Arrangement
-- Verse: Minimal - just vocals, acoustic guitar, subtle pad
-- Chorus: Full band enters with drums and bass
-- Bridge: Strip back to piano and vocals before final chorus
+- Three back-to-back verses, no chorus
+- Abrupt end, echo out
 
 ### Instrumentation
-- Electric guitar (verse riff in drop D)
-- Bass (root notes, some walking in pre-chorus)
-- Drums (live kit, recorded in one take)
-- Synth pad (atmospheric, Juno-60 style)
-- Vocals (lead + 3-part harmony in chorus)
+- 
 
 ### Mix Notes
-- Vocal sits slightly above the mix
-- Heavy compression on drums for punch
-- Long reverb tail on final chorus for impact
+- 
 
 ## Credits
 
-- Lyrics: Prometheus Brown, Dakota Camacho
+- Lyrics: Prometheus Brown, Gabriel Teodros, Khingz
 - Music: Prometheus Brown, Gabriel Teodros
-- Performed by: Prometheus Brown, Dakota Camacho
+- Performed by: Prometheus Brown, Gabriel Teodros, Khingz
 
 ## Technical Details
 
-- Recorded: Prometheus Brown's 
+- Recorded: PB_home_studio (Prometheus Brown vocals), GT_home_studio (Gabriel Teodros vocals), Khingz studio 
 - Sample Rate: 48kHz / 24-bit
 - Stems: 24 tracks
 - Mixed: Gabriel Teodros
@@ -58,4 +52,4 @@ See commit history for detailed changes and reasoning.
 
 ---
 
-**Last Updated**: [Date]
+**Last Updated**: 2026-01-27
