@@ -1,7 +1,7 @@
 # Empire Way (Initial Draft) - v2
 
 **Date**: July 29, 2025  
-**Status**: Draft  
+**Status**: Revision  
 **Notes**: Intro, title track. Starts with MLK Way light rail sounds and Laura "Piece" Kelley "Empire Way became MLK" vocal sample. 
 **Instrumental**: "cadences"
 
