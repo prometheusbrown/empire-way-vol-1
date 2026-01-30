@@ -1,11 +1,21 @@
 # Empire Way, Vol. 1
 
-> A collaborative album project between Prometheus Brown (emcee) and Gabriel Teodros (producer) tracked with Git for transparent creative evolution and experimentation in platform release. Production, writing and recording began in October 2024 and eight songs were selected for inclusion in October 2025.
-> This repository was created in January 2026 to retroactively track previous changes, as well as to track future changes on the way to a targeted final release in Spring 2026.
+> A collaborative album project between veteran Seattle hip-hop artists [Prometheus Brown (aka Geo - Beatrock Music, Blue Scholars)](https://prometheusbrown.wtf) (emcee) and [Gabriel Teodros (aka GT - Abyssinian Creole, Copperwire)](https://gabrielteodros.bandcamp.com) (producer). Production, writing and recording began in October 2024. 12 demos were made, with 8 songs selected for an October 2025 mixing and mastering session with remaining songs potentially reworked for a future Empire Way, Vol. 2 release. 
+>
+> The October 2025 8-song master is a gamma version providing a framework for more changes and laying foundation for a tiered release cycle that de-centers large streaming platforms in favor of exploring alternate platforms (with possible alternate version releases). This beta version will be shared on a limited basis for further feedback and stress-testing to build toward a release candidate version.
+>
+> This repository was created in January 2026 to retroactively track previous changes as well as to track future changes for transparent creative evolution en route to future publicly released versions. It also serves as an experiment in using Git not only to document process, but to use the platform itself as a method of album "release," modeling the process of making and releasing a music album after the [software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle).
 
 ## 🔢 Version History
-- October 15, 2025 - Vocals, Instrumentals arranged and mixed (unmastered), 8 songs 
-- October 16, 2025 - Master 001 (mastered by Dume), 8 songs
+- October 2024-July 2025 - Pre-Alpha, beatmaking, songwriting, demo recording
+- July 2025 - Alpha version, 12 song demos, 
+- October 15, 2025 - Beta - Vocals, Instrumentals arranged (mixed by GT, unmastered), 8 songs 
+- October 16, 2025 - Gamma - Master 001 (mastered by Dume), 8 songs
+
+## 🛣️ Roadmap
+- February 2026 - Release Candidate (digital - limited)
+- March 2026 - Stable Release (digital - public)
+- Late Spring 2026 - Gold Master (physical - public)
 
 ## 🎵 Project Overview
 
