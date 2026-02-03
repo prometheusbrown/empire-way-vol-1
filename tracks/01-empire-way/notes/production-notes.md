@@ -21,7 +21,7 @@
   - added feature verse and chorus from Dakota Camacho
   - added Michael Parenti "Against Empire" speech vocal samples for intro and outro
  
-### Session 3 - January 2026 (TBD)
+### Session 3 - February 2026 (TBD)
 - **Goal**: Re-record final Prometheus Brown verse and chorus, re-record final Laura "Piece" Kelley vocal sample with scratches
 - **Location**: PB_home_studio
 - **Attendance**: Prometheus Brown
@@ -75,4 +75,4 @@ Opening title track.
 
 ---
 
-**Last Updated**: January 27, 2026
+**Last Updated**: February 3, 2026
