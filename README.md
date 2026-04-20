@@ -1,10 +1,12 @@
 # Empire Way, Vol. 1
 
-> This is a collaborative album project between Seattle hip-hop artists [Prometheus Brown (aka Geo - Beatrock Music, Blue Scholars)](https://prometheusbrown.wtf) (emcee) and [Gabriel Teodros (aka GT - Abyssinian Creole, Copperwire)](https://gabrielteodros.bandcamp.com) (producer). Production, writing and recording began in October 2024. Among 12 completed demo tracks, 8 candidate songs were selected and sequenced for October 2025 mixing and mastering (remaining songs are under consideration for a future *Empire Way, Vol. 2* release). 
->
-> The October 2025 8-song master is a gamma version providing a framework for more changes and laying foundation for a tiered release cycle that de-centers large streaming platforms in favor of exploring alternate platforms (with possible alternate version releases). This version will be shared publicly via this repository as further iterations of the songs/album are made with feedback and stress-testing to build toward a release candidate version.
->
-> This repository was created in January 2026 to retroactively track previous changes as well as to track future changes for transparent creative evolution. It also serves as an experiment in using Git not only to document process, but to use the platform itself as a method of album "release," modeling the process of making and releasing a music album after the [software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle), taking inspiration from the spirit of transparency and collaboration at the heart of [open source](https://en.wikipedia.org/wiki/The_Open_Source_Definition) projects.
+This is a collaborative album project between Seattle hip-hop artists [Prometheus Brown (aka Geo - Beatrock Music, Blue Scholars)](https://prometheusbrown.wtf) (emcee) and [Gabriel Teodros (aka GT - Abyssinian Creole, Copperwire)](https://gabrielteodros.bandcamp.com) (producer). Production, writing and recording began in October 2024. Among 12 completed demo tracks, 8 candidate songs were selected and sequenced for October 2025 mixing and mastering (remaining songs are under consideration for a future *Empire Way, Vol. 2* release). 
+
+The October 2025 8-song master is a gamma version providing a framework for more changes and laying foundation for a tiered release cycle that de-centers large streaming platforms in favor of exploring alternate platforms (with possible alternate version releases). This version will be shared publicly via this repository as further iterations of the songs/album are made with feedback and stress-testing to build toward a release candidate version.
+
+This repository was created in January 2026 to retroactively track previous changes as well as to track future changes for transparent creative evolution. It also serves as an experiment in using Git not only to document process, but to use the platform itself as a method of album "release," modeling the process of making and releasing a music album after the [software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle), taking inspiration from the spirit of transparency and collaboration at the heart of [open source](https://en.wikipedia.org/wiki/The_Open_Source_Definition) projects.
+
+---
 
 ## Version History
 - October 2024-July 2025 - Pre-Alpha, beatmaking, songwriting, demo recording 
