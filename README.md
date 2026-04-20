@@ -33,6 +33,7 @@ This repository houses all creative assets for [Empire Way, Vol. 1], including:
 ```
 album-name/
 ├── tracks/              # Individual song folders
+├── audio/               # Current song versions, demos, instrumentals
 ├── artwork/             # Album art, single covers, promotional images
 ├── liner-notes/         # Album credits, thank yous, stories
 ├── production/          # Session files, stems (private)
