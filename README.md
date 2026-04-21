@@ -1,23 +1,38 @@
+![Empire Way Vol. 1](images/banner (github) 1280x640 png8.png)
+
 # Empire Way, Vol. 1
 
 This is a collaborative album project between Seattle hip-hop artists [Prometheus Brown (aka Geo - Beatrock Music, Blue Scholars)](https://prometheusbrown.wtf) (emcee) and [Gabriel Teodros (aka GT - Abyssinian Creole, Copperwire)](https://gabrielteodros.com) (producer). Production, writing and recording began in October 2024. Among 12 completed demo tracks, 8 candidate songs were selected and sequenced for October 2025 mixing and mastering (remaining songs are under consideration for a future *Empire Way, Vol. 2* release). 
 
-The October 2025 8-song master is a gamma version providing a framework for more changes and laying foundation for a tiered release cycle that de-centers large streaming platforms in favor of exploring alternate platforms (with possible alternate version releases). This version will be shared publicly via this repository as further iterations of the songs/album are made with feedback and stress-testing to build toward a release candidate version.
+This repository was created in January 2026 to retroactively track previous changes from October 2024-present, as well as to track future changes for transparent creative evolution. It also serves as an experiment in using Git not only to document process and track iterative changes, but to use the platform itself as an alternative method of album "release" that subverts the current online-artist's dependency on big tech streaming platforms and social media content creation. 
 
-This repository was created in January 2026 to retroactively track previous changes as well as to track future changes for transparent creative evolution. It also serves as an experiment in using Git not only to document process, but to use the platform itself as a method of album "release," modeling the process of making and releasing a music album after the [software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle), taking inspiration from the spirit of transparency and collaboration at the heart of [open source](https://en.wikipedia.org/wiki/The_Open_Source_Definition) projects.
+# A music album released on GitHub? Why? How?
+
+"Art is never finished, only abandoned" is a quote often attributed to Leonardo da Vinci. Rather than wait until a finished, polished product is ready for release, we present this project in an iterative and evolutionary form, even open to changes after it is "done." It is from this viewpoint, along with a belief that we must master techonology before it masters us, that we imagine this project as if its trajectory more resembled the [software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) than a traditional music "album" cycle where a final commodified product is frozen in time upon its release. Furthermore, we are invoking the spirit of transparency and human collaboration at the heart of the [open source](https://en.wikipedia.org/wiki/The_Open_Source_Definition) ethos underprinning the very technology that has been co-opted for sales and surveillance.  
+
+We also hope to iterate the structure of this repository itself as a potential template which other artists can fork and customize--collaborating, documenting and sharing their projects as they evolve. We imagine a multitude of unique, user-generated UX/UI forms of interacting with art which can be built and experienced from this space, where democratized technology can be used to create autonomous innovative spaces for artist-audience connection, decoupling from the extractive, enshittified slop vortexes that surround us.
+
+## V1 Release
+
+> https://untitled.stream/invite/h6k3h3XfCmSJdLbbogUKD
+
+The April 20, 2026 V1 GitHub release of Empire Way, Vol. 1 is currently available for streaming on the [[untitled]](https://untitled.stream) platform. Access to the [untitled] streaming link is limited to 100 users--the URL will be de-activated after 100 users have accessed and saved the project to their own collection in the [untitled] app. A web interface will also go live on May 1, 2026 for additional users to access.
+
+Note: Empire Way, Vol. 1 (V1) is a **gamma release**. Sharing the project in its current form provides a framework for feedback and additional changes for future iterations building toward a final release candidate version. 
 
 ---
 
-## Version History
-- October 2024-July 2025 - Pre-Alpha, beatmaking, songwriting, demo recording 
-- July 2025 - Alpha on [untitled] - mix drafts, arrangements, pre-production
-- October 15, 2025 - Beta - Mixed by GT, unmastered), 8 songs 
-- October 16, 2025 - Gamma - Master 001 (mastered by Dume41) 8 songs
-
 ## Roadmap
+- January 2026 - GitHub repository and album project template created
 - April 2026 - Release Candidate (digital release - limited)
 - May 2026 - Stable Release (digital release - public)
 - Late Spring 2026 - Gold Master (published final release, digital/physical - public)
+
+- ## Version History
+- October 2024-July 2025 - Pre-Alpha, beatmaking, songwriting, demo recording (private)
+- July 2025 - Alpha on [untitled] - mix drafts, arrangements, pre-production - available 
+- October 15, 2025 - Beta - (mixed by GT, unmastered), 8 songs 
+- October 16, 2025 - Gamma - Master 001 (mastered by Dume41) 8 songs
 
 ## Project Overview
 
