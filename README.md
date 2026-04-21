@@ -1,4 +1,4 @@
-![Empire Way Vol. 1](images/banner (github) 1280x640 png8.png)
+![Empire Way Vol. 1](images/banner-1280x640-png8.png)
 
 # Empire Way, Vol. 1
 
