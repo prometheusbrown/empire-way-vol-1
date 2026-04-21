@@ -86,5 +86,5 @@ album-name/
 
 ---
 
-**Last Updated**: April 2026
-**Status**: In Production, Beta
+**Last Updated**: April 20, 2026
+**Status**: In Production, Gamma
