@@ -68,7 +68,7 @@ We are currently weighing options on whether or not to fully release V3 to big s
 album-name/
 ├── tracks/              # Individual song folders
 ├── audio/               # Current song versions, demos, instrumentals
-├── artwork/             # Album art, single covers, promotional images
+├── images/              # Album art, single covers, promotional images
 ├── liner-notes/         # Album credits, thank yous, stories
 ├── production/          # Session files, stems (private)
 ├── docs/                # Production notes, mixing decisions
