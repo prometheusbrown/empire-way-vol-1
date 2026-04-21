@@ -86,6 +86,7 @@ album-name/
 - Producer: Gabriel Teodros
 - Mixing: Gabriel Teodros
 - Mastering: Dume41
+- Artwork: Leeann Alguire
 
 ---
 
