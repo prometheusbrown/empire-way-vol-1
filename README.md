@@ -42,7 +42,7 @@ A dedicated web app built from this repository is currently planned for, which w
 
 ## V3 / V3X
 
-A traditional album release--V3--slated for Q3 2026, will follow V2, beginning with a release date announcement and pre-orders for digital and physical copies available on **[Bandcamp](https://prometheusbrown.bandcamp.com)**
+A traditional album release (V3) slated for Q3 2026, will follow V2, beginning with a release date announcement and pre-orders for digital and physical copies available on **[Bandcamp](https://prometheusbrown.bandcamp.com)**.
 
 We are currently weighing options on whether or not to fully release V3 to big streaming platforms (Spotify, Apple Music, Tidal etc.) and are open to feedback.
 
