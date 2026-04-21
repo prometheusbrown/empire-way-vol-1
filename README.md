@@ -2,6 +2,8 @@
 
 # Empire Way, Vol. 1
 
+*Note: website and other folder assets still under construction with placeholders. Read further for access to audio*
+
 This is a collaborative album project between Seattle hip-hop artists [Prometheus Brown (aka Geo - Beatrock Music, Blue Scholars)](https://prometheusbrown.wtf) (emcee) and [Gabriel Teodros (aka GT - Abyssinian Creole, Copperwire)](https://gabrielteodros.com) (producer). Production, writing and recording began in October 2024. Among 12 completed demo tracks, 8 candidate songs were selected and sequenced for October 2025 mixing and mastering (remaining songs are under consideration for a future *Empire Way, Vol. 2* release). 
 
 This repository was created in January 2026 to retroactively track previous changes from October 2024-present, as well as to track future changes for transparent creative evolution. It also serves as an experiment in using Git not only to document process and track iterative changes, but to use the platform itself as an alternative method of album "release" that subverts the current online-artist's dependency on big tech streaming platforms and social media content creation. 
@@ -25,7 +27,7 @@ We also hope to iterate the structure of this repository itself as a potential t
 
 The April 20, 2026 V1 GitHub release of Empire Way, Vol. 1 is currently available for streaming on the [[untitled]](https://untitled.stream) platform. Access to the [untitled] streaming link is limited to 100 users--the URL will be de-activated after 100 users have accessed and saved the project to their own collection in the [untitled] app. 
 
-Note: Empire Way, Vol. 1 (V1) is a **gamma release**. Sharing the project in its current form provides a framework for feedback and additional changes for future iterations building toward a final release candidate version. See roadmap below for proposed timeline of future iterations.
+Empire Way, Vol. 1 (V1) is a **gamma release**. Sharing the project in its current form provides a framework for feedback and additional changes for future iterations building toward a final release candidate version. See roadmap below for proposed timeline of future iterations.
 
 ## V2 Release - Alternative Platforms & Web App
 
@@ -47,10 +49,12 @@ We are currently weighing options on whether or not to fully release V3 to big s
 ---
 
 ## Roadmap
-- January 2026 - GitHub repository and album project template created
-- April 2026 - Gamma (v1) (digital release - limited)
-- Spring 2026 - Stable Release (digital release - public)
-- TBA, Summer-Fall 2026 - Gold Master (published final release, digital/physical - public)
+- Q3 2024 - ~~Project begins~~
+- Q4 2025 - ~~Mixing and Mastering for V1 release~~
+- Q1 2026 - ~~GitHub repository and album project template created~~
+- Q2 2026 - ~~Gamma (V1, digital release - limited)~~
+- Q3 2026 - Stable Release (V2, digital release - public)
+- Q4 2026 - Gold Master (V3, published release, digital/physical - public)
 
 - ## Version History
 - October 2024-July 2025 - Pre-Alpha, beatmaking, songwriting, demo recording (private)
